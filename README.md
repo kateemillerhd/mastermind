@@ -1,6 +1,6 @@
 # Mastermind (Command Line Game)
 
-Mastermind is a code-breaing game where one player sets a secret code and the other player attempts
+Mastermind is a code-breaking game where one player sets a secret code and the other player attempts
 to guess it within a set number of turns. This project is a command-line Ruby implementation of that
 game, supporting both human and computer players.
 
